@@ -2,4 +2,4 @@
 deneme
 
 
-Git aracılığıyla GitHub'a dosya gönderme pull, push, commit, merge işlemleri yapılmışmıştır.
+If you run QuadB File, write go run QuadB.go.
